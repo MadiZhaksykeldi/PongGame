@@ -1,5 +1,5 @@
 # PongGame
-Pong game using Java AWT and Swing 
+Classic ping pong game clone using Java AWT and Swing  
 
 - [x] Java AWT
 - [x] Java Swing
