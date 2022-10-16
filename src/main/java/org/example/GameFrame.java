@@ -10,7 +10,7 @@ public class GameFrame extends JFrame {
         panel = new GamePanel();
 
         this.add(panel);
-        this.setTitle("Pong game by Aaron");
+        this.setTitle("Pong game by Madi");
         this.setResizable(false);
         this.setBackground(Color.BLACK);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
